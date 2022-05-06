@@ -13,4 +13,4 @@
   
   </div>
   
-![GitHub Snake Light](https://github.com/LeandroBorgesdaSilva/LeandroBorgesdaSilva/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://github.com/LeandroBorgesdaSilva/LeandroBorgesdaSilva/blob/output/github-contribution-grid-snake.svg)
